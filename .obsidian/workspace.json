@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "5b3cef082cc727fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9d1b029765f8b51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2907762c87fa5a83",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "06/drinks.gif"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26fc3281b48aa0a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee70a19bd0d2e5d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b931c5332dcf3c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d96ff79a4a54a32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f0b660a7c3783837",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "de5677c694c2ae65",
+    "type": "split",
+    "children": [
+      {
+        "id": "c961d7ee35bccd81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43ffd9879a0b1633",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06/drinks.gif",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d203f6f59ccdc29",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06/drinks.gif",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e85d304428056100",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "154b3b334ce4f09c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06/drinks.gif"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "2907762c87fa5a83",
+  "lastOpenFiles": [
+    "06/elixirs.html",
+    "06/directions.html",
+    "06/directions .html",
+    "06/directions 页面.html",
+    "06/lightblue.jpg",
+    "06/green.jpg",
+    "06/blue.jpg",
+    "06/red.jpg",
+    "06/elixirs 页面.html",
+    "06/elixirs 页面.txt",
+    "06/新建 文本文档.txt"
+  ]
+}
