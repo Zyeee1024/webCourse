@@ -20,3 +20,8 @@ border-bottom:thin dotted #888888;
 blockquote{
 font-style:italic;
 }
+
+body{
+margin:0px;
+  padding:0px;
+}
