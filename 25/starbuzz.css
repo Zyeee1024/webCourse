@@ -69,3 +69,8 @@ div.tableContainer{
 div.tableRow{
   display: table-row;
 }
+
+.drinks{
+  background-color:#efe5d0;
+  padding:15px;
+}
