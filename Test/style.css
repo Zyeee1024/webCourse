@@ -1,3 +1,11 @@
+.allcontent{
+  width:1200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .oo{
   text-align: center;
   font-size:25px;
@@ -42,7 +50,11 @@
 }
 
 .bluephone{
-  margin-right: 80px;
+  /* width: 300px;
+  height: 200px;
+  object-fit:contain; */
+  width:500px;
+  border-radius:1.5em;
 }
 
 .grayphone{
@@ -50,18 +62,70 @@
 }
 
 .gift{
-  margin-left:80px;
+  margin:80px;
+  
+}
+
+.blue{
+  border: 2px solid rgb(190, 188, 188);
+  width:500px;
+  border-radius: 1.5em;
 }
 
 .Learn{
   color:dimgray;
+  margin:13px;
 }
 
 .Google{
   font-weight: bold;
+  font-size:28px;
+  margin:13px;
+}
+
+.money1{
+  font-weight: bold;
+  font-size:26px;
+  margin:0;
 }
 
 .No{
   color:dimgray;
+  margin:12px;
 }
 
+.money2{
+  font-size:15px;
+  text-decoration:line-through;
+  margin:12px;
+  margin-bottom: 0px;
+}
+
+.money3{
+  font-weight: bold;
+  font-size:35px;
+
+}
+
+.Ltd{
+  color:dimgray;
+  margin:10px;
+}
+
+.blod{
+  font-weight: bold;
+}
+
+.box{
+  border:solid 2px #3058af;
+  border-radius: 2em;
+  width:160px;
+  height:40px;
+  background-color: #1a45a0;
+  color:aliceblue;
+  padding-top:10px;
+  text-align:center;
+  position:relative;
+  font-weight: bold;
+  margin-top: 50px;
+}
