@@ -6,6 +6,7 @@
   margin-right: auto;
 }
 
+/* top */
 .oo{
   text-align: center;
   font-size:25px;
@@ -49,37 +50,16 @@
   margin:80px;
 }
 
+/* bluephone */
 .bluephone{
   /* width: 300px;
   height: 200px;
   object-fit:contain; */
   width:350px;
-  border-radius:1.5em;
-  
-}
-
-.grayphone{
-  margin:60px;
+  border-radius:1.4em;
   position: relative;
-  left:120px;
-  bottom:370px;
-  width:350px;
-  border-radius:1.5em;
-}
-
-.bluegift{
-    margin:80px;
-  position: relative;
-  left:140px;
-  bottom:420px;
-  width:350px;
-  border-radius:1.5em;
-}
-.gift{
-  margin:80px;
-  position: relative;
-  left:230px;
-  bottom:340px;
+  border-end-end-radius: 0px;
+  border-end-start-radius: 0px;
 }
 
 .blue{
@@ -91,69 +71,118 @@
   bottom:35px;
 }
 
-.gray{
-  border: 2px solid rgb(190, 188, 188);
-  width:350px;
-  border-radius: 1.5em;
-  /* position:relative; */
-  left:-30px;
-  bottom:35px;
-}
-
 .Learn{
   color:dimgray;
-  margin:13px;
+  margin:10px;
 }
 
 .Google{
   font-weight: bold;
-  font-size:28px;
+  font-size:25px;
   margin:13px;
 }
 
 .money1{
   font-weight: bold;
-  font-size:26px;
+  font-size:24px;
   margin:0;
 }
 
 .No{
   color:dimgray;
   margin:12px;
+  font-size: 14px;
 }
 
 .money2{
-  font-size:15px;
+  font-size:14px;
   text-decoration:line-through;
-  margin:12px;
-  margin-bottom: 0px;
+  margin:15px;
+  margin-bottom: -5px;
 }
 
 .money3{
+  font-size:19px;
+  position:absolute;
+  left:12px;
+}
+
+.money4{
   font-weight: bold;
   font-size:35px;
-
+  margin-left: 21px;
 }
 
 .Ltd{
   color:dimgray;
   margin:10px;
+  font-size:11px;
 }
 
 .blod{
   font-weight: bold;
+  font-size:11px;
 }
 
 .box1{
   border:solid 2px #3058af;
-  border-radius: 2em;
+  border-radius: 3em;
   width:160px;
   height:40px;
   background-color: #1a45a0;
   color:aliceblue;
-  padding-top:10px;
+  padding-top:12px;
   text-align:center;
   position:relative;
   font-weight: bold;
-  margin-top: 50px;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  font-size: 16px;
+}
+
+/* grayphone */
+.grayphone{
+  margin:60px;
+  position: relative;
+  left:130px;
+  bottom:345px;
+  width:350px;
+  border-radius:1.4em;
+}
+
+.gray{
+  position:relative; 
+  border: 2px solid rgb(190, 188, 188);
+  width:350px;
+  border-radius: 1.5em;
+  left:200px;
+  bottom:35px;
+}
+
+
+
+/* bluegift */
+.bluegift{
+  margin:80px;
+  position: relative;
+  left:140px;
+  bottom:420px;
+  width:350px;
+  border-radius:1.4em;
+}
+
+.gift{
+  margin:80px;
+  position: relative;
+  left:230px;
+  bottom:340px;
+}
+
+.gift{
+  border: 2px solid rgb(190, 188, 188);
+  width:350px;
+  border-radius: 1.5em;
+  position:relative; 
+  left:-30px;
+  bottom:35px;
 }
