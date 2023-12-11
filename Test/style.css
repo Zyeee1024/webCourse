@@ -53,23 +53,51 @@
   /* width: 300px;
   height: 200px;
   object-fit:contain; */
-  width:500px;
+  width:350px;
   border-radius:1.5em;
+  
 }
 
 .grayphone{
-  margin:80px;
+  margin:60px;
+  position: relative;
+  left:120px;
+  bottom:370px;
+  width:350px;
+  border-radius:1.5em;
 }
 
+.bluegift{
+    margin:80px;
+  position: relative;
+  left:140px;
+  bottom:420px;
+  width:350px;
+  border-radius:1.5em;
+}
 .gift{
   margin:80px;
-  
+  position: relative;
+  left:230px;
+  bottom:340px;
 }
 
 .blue{
   border: 2px solid rgb(190, 188, 188);
-  width:500px;
+  width:350px;
   border-radius: 1.5em;
+  position:relative;
+  left:-30px;
+  bottom:35px;
+}
+
+.gray{
+  border: 2px solid rgb(190, 188, 188);
+  width:350px;
+  border-radius: 1.5em;
+  /* position:relative; */
+  left:-30px;
+  bottom:35px;
 }
 
 .Learn{
@@ -116,7 +144,7 @@
   font-weight: bold;
 }
 
-.box{
+.box1{
   border:solid 2px #3058af;
   border-radius: 2em;
   width:160px;
