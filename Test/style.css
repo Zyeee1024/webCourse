@@ -8,6 +8,7 @@
 
 /* top */
 .oo{
+  color:rgb(155, 151, 151);
   text-align: center;
   font-size:25px;
 }
@@ -21,7 +22,7 @@
 
 .When{
   font-size:18px;
-  color:dimgray;
+  color:rgb(155, 151, 151);
   text-align: center;
   margin: 16px;
 }
@@ -32,7 +33,7 @@
 }
 
 .See a:link{
-  color:dimgray;
+  color:rgb(155, 151, 151);
 }
 
 .See a:hover{
@@ -40,7 +41,7 @@
 }
 
 .ESS{
-  color:dimgray;
+  color:rgb(155, 151, 151);
   text-align: center;
   margin:16px;
   font-size:15px;
@@ -65,17 +66,17 @@
 
 /* 蓝色手机框 */
 .blue{
-  border: 2px solid rgb(190, 188, 188);
+  border: 2px solid rgb(224, 223, 223);
   width:330px;
   border-radius: 1.5em;
   position:relative;
-  left:-60px;
+  left:5px;
   bottom:32px;
   height:605px;
 }
 
 .Learn{
-  color:dimgray;
+  color:rgb(155, 151, 151);
   margin:10px;
 }
 
@@ -92,7 +93,7 @@
 }
 
 .No{
-  color:dimgray;
+  color:rgb(155, 151, 151);
   margin:12px;
   font-size: 14px;
 }
@@ -117,7 +118,7 @@
 }
 
 .Ltd{
-  color:dimgray;
+  color:rgb(155, 151, 151);
   margin:10px;
   font-size:11px;
 }
@@ -151,7 +152,7 @@
   position: relative;
   left:-60px;
   bottom:30px;
-  width:330px;
+  width:335px;
   border-radius:1.4em;
   border-end-end-radius: 0px;
   border-end-start-radius: 0px;
@@ -159,11 +160,11 @@
 
 /* 灰色手机框 */
 .gray{
-  border: 2px solid rgb(190, 188, 188);
-  width:330px;
+  border: 2px solid rgb(224, 223, 223);
+  width:335px;
   border-radius: 1.5em;
   position:relative; 
-  left:320px;
+  left:370px;
   bottom:640px;
   height: 605px;
 }
@@ -171,6 +172,28 @@
 .suojin1{
   position: relative;
   top:-120px;
+}
+
+.Google8{
+  font-weight: bold;
+  font-size:22px;
+  margin-left: 8px;
+}
+
+.box2{
+  border:solid 2px #3058af;
+  border-radius: 3em;
+  width:160px;
+  height:42px;
+  background-color: #1a45a0;
+  color:aliceblue;
+  padding-top:12px;
+  text-align:center;
+  position:relative;
+  font-weight: bold;
+  margin-top: 78px;
+  margin-bottom: 78px;
+  font-size: 16px;
 }
 
 /* bluegift */
@@ -188,17 +211,17 @@
 
 /* 蓝色礼物框 */
 .gift{
-  border: 2px solid rgb(190, 188, 188);
+  border: 2px solid rgb(224, 223, 223);
   width:335px;
   border-radius: 1.5em;
   position:relative; 
-  left:700px;
+  left:740px;
   bottom:1250px;
   height:605px;
 }
 
 .Featured{
-  color:dimgray;
+  color:rgb(155, 151, 151);
   margin:15px;
   font-size: 16px;
 }
@@ -210,7 +233,7 @@
 }
 
 .Check{
-  color:dimgray;
+  color:rgb(155, 151, 151);
   margin:15px;
   font-size: 18px;
   margin-bottom:300px;
@@ -219,4 +242,32 @@
 .suojin2{
   position: relative;
   top:-165px;
+}
+
+/* 倒计时 */
+
+.Today{
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  position: relative;
+  bottom:1228px;
+}
+
+.shuzi{
+  font-weight: bold;
+  font-size: 40px;
+  text-align: center;
+  position: relative;
+  bottom:1218px;
+  word-spacing: 30px;
+}
+
+.zimu{
+  color:rgb(155, 151, 151);
+  font-size: 12px;
+  text-align: center;
+  position: relative;
+  bottom:1215px;
+  word-spacing: 40px;
 }
