@@ -51,24 +51,27 @@
 }
 
 /* bluephone */
+/* 手机图片 */
 .bluephone{
   /* width: 300px;
   height: 200px;
   object-fit:contain; */
-  width:350px;
+  width:330px;
   border-radius:1.4em;
   position: relative;
   border-end-end-radius: 0px;
   border-end-start-radius: 0px;
 }
 
+/* 蓝色手机框 */
 .blue{
   border: 2px solid rgb(190, 188, 188);
-  width:350px;
+  width:330px;
   border-radius: 1.5em;
   position:relative;
-  left:-30px;
-  bottom:35px;
+  left:-60px;
+  bottom:32px;
+  height:605px;
 }
 
 .Learn{
@@ -124,6 +127,7 @@
   font-size:11px;
 }
 
+/* 蓝色按钮 */
 .box1{
   border:solid 2px #3058af;
   border-radius: 3em;
@@ -141,48 +145,78 @@
 }
 
 /* grayphone */
+/* 灰色手机图片 */
 .grayphone{
   margin:60px;
   position: relative;
-  left:130px;
-  bottom:345px;
-  width:350px;
+  left:-60px;
+  bottom:30px;
+  width:330px;
   border-radius:1.4em;
+  border-end-end-radius: 0px;
+  border-end-start-radius: 0px;
 }
 
+/* 灰色手机框 */
 .gray{
-  position:relative; 
   border: 2px solid rgb(190, 188, 188);
-  width:350px;
+  width:330px;
   border-radius: 1.5em;
-  left:200px;
-  bottom:35px;
+  position:relative; 
+  left:320px;
+  bottom:640px;
+  height: 605px;
 }
 
-
+.suojin1{
+  position: relative;
+  top:-120px;
+}
 
 /* bluegift */
+/* 蓝色礼物图片 */
 .bluegift{
   margin:80px;
   position: relative;
-  left:140px;
-  bottom:420px;
-  width:350px;
+  left:-80px;
+  bottom:40.5px;
+  width:335px;
   border-radius:1.4em;
+  border-end-end-radius: 0px;
+  border-end-start-radius: 0px;
 }
 
-.gift{
-  margin:80px;
-  position: relative;
-  left:230px;
-  bottom:340px;
-}
-
+/* 蓝色礼物框 */
 .gift{
   border: 2px solid rgb(190, 188, 188);
-  width:350px;
+  width:335px;
   border-radius: 1.5em;
   position:relative; 
-  left:-30px;
-  bottom:35px;
+  left:700px;
+  bottom:1250px;
+  height:605px;
+}
+
+.Featured{
+  color:dimgray;
+  margin:15px;
+  font-size: 16px;
+}
+
+.There{
+  font-weight: bold;
+  font-size:23px;
+  margin:13px;
+}
+
+.Check{
+  color:dimgray;
+  margin:15px;
+  font-size: 18px;
+  margin-bottom:300px;
+}
+
+.suojin2{
+  position: relative;
+  top:-165px;
 }
