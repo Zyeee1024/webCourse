@@ -40,6 +40,10 @@
   color:dodgerblue;
 }
 
+.See a:visited{
+  color:rgb(155, 151, 151);
+}
+
 .ESS{
   color:rgb(155, 151, 151);
   text-align: center;
@@ -271,3 +275,63 @@
   bottom:1215px;
   word-spacing: 40px;
 }
+
+/* 雪花蓝色框 */
+.snow{
+  border-radius:1.4em;
+  position: relative;
+  bottom:550px;
+  left:45px;
+  height:420px;
+}
+
+/* 第一个框文字部分 */
+.whitefont{
+  color:rgb(241, 235, 227);
+  position: relative;
+  bottom:1490px;
+  left:120px;
+}
+
+.cyber{
+  font-size: 20px;
+  margin-bottom: 10px;;
+}
+
+.wenzi1{
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.for{
+  margin-top: -5px;
+}
+
+.wenzi2{
+  font-size:18px;
+  margin-top:15px;
+  margin-bottom: 15px;
+}
+
+.wenzi3{
+  font-size:12px;
+  margin-bottom: 25px;
+}
+
+.com a:link{
+  color:rgb(241, 235, 227);
+}
+
+.com a:visited{
+  color:rgb(241, 235, 227);
+}
+
+.com a:hover{
+  color:rgb(241, 235, 227);
+}
+
+.wenzi4{
+  font-size:18px;
+  font-weight: 550;
+}
+
